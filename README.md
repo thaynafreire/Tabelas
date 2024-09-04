@@ -1,6 +1,6 @@
 # Table - Coluna de empresas
 
-![](./preview.png)
+![](./img/preview.png)
 
 ---
 
